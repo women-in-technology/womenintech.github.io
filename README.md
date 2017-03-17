@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Women in Technology Action Plan
 
 You can use the [editor on GitHub](https://github.com/women-in-technology/womenintech.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
